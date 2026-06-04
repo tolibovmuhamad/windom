@@ -1,0 +1,174 @@
+{
+  "header": {
+    "ourProjects": "Our Projects",
+    "houses": "Houses",
+    "mortgage": "Mortgage",
+    "aboutCompany": "About Company",
+    "contacts": "Contacts",
+    "orderCall": "Request a Call",
+    "izumrudniy": "Izumrudniy Village",
+    "iqclub": "IQ CLUB",
+    "usady": "Usady",
+    "zimniyGorka": "Zimniy Gorka",
+    "konstantinovka": "Konstantinovka",
+    "oneFloor": "One-story",
+    "twoFloor": "Two-story",
+    "townhouses": "Townhouses",
+    "allHouses": "All Houses",
+    "team": "Team",
+    "smiAbout": "Media About Us",
+    "news": "News",
+    "phone": "+7 (962) 555-25-25"
+  },
+  "dialog": {
+    "title": "Leave your details and our manager will call you back within 30 minutes",
+    "name": "Name *",
+    "namePlaceholder": "Your name",
+    "phone": "Phone *",
+    "phonePlaceholder": "+7 (___) ___-__-__",
+    "submit": "Request a Call",
+    "agree": "I agree with the personal data processing policy"
+  },
+  "home": {
+    "hero": {
+      "company": "CONSTRUCTION COMPANY",
+      "description": "We build houses, cottage villages and townhouses in Kazan",
+      "moreProjects": "More about projects",
+      "leaveRequest": "Leave a request"
+    },
+    "stats": {
+      "years": "Years of successful experience in suburban real estate sales",
+      "area": "Ha — area of our comfortable European-class villages",
+      "owners": "Happy owners of suburban homes"
+    },
+    "about": {
+      "title": "About Company",
+      "founded": "<1>Win Dom</1> company was founded in 2012.",
+      "direction": "The main focus of the developer is the construction of suburban homes and turnkey townhouses.",
+      "experience": "For over 11 years, Win Dom has been working in the real estate construction market of Kazan and the Republic of Tatarstan as a contractor and as an independent developer."
+    },
+    "architecture": {
+      "title": "Unique <1>Architecture</1>",
+      "description": "We don't build generic box-type solutions: houses made of yellow or red brick. We create <1>unique</1>, one-of-a-kind, <2>memorable projects.</2>"
+    },
+    "projects": {
+      "title": "Our <1>Projects</1>",
+      "oneFloor": "1-story",
+      "twoFloor": "2-story",
+      "townhouses": "Townhouses",
+      "allHouses": "All Houses",
+      "cottageVillages": "Cottage villages and houses",
+      "inKazan": "in Kazan ∨",
+      "location": "8 minutes from Dubravnaya metro",
+      "oneRoom": "1 bedroom",
+      "twoRoom": "2 bedroom",
+      "townhouse": "Townhouse"
+    },
+    "mortgage": {
+      "title": "WE WILL FIND <1>MORTGAGE</1> SOLUTIONS TODAY",
+      "subtitle": "Choose a suitable option and our specialists will prepare current offers for you",
+      "mortgageLoans": "MORTGAGE LOANS",
+      "mortgageLoansDesc": "We will select a basic mortgage program for free",
+      "familyMortgage": "FAMILY MORTGAGE",
+      "familyMortgageDesc": "We use maternal capital as a down payment",
+      "itSpecialists": "FOR IT SPECIALISTS",
+      "itSpecialistsDesc": "Under this program, IT company employees can build a private home with a preferential mortgage rate.",
+      "govSupport": "GOV. SUPPORT 2023",
+      "govSupportDesc": "We use maternal capital as a down payment",
+      "rate": "Mortgage rate",
+      "deposit": "Down payment",
+      "getCalculation": "Get calculation"
+    },
+    "team": {
+      "title": "Our <1>Team</1>",
+      "desc1": "WinDom employees are professionals who combine enthusiasm and experience — energetic, creative and passionate people.",
+      "desc2": "Our team consists of young professionals ready to overcome challenges at any level. The success of each individual employee is an integral part of the success of the entire company.",
+      "projectManager": "Project Manager",
+      "chiefArchitect": "Chief Architect",
+      "deputyManager": "Deputy Project Manager"
+    },
+    "reviews": {
+      "title": "<1>Reviews</1> of clients",
+      "boughtHouse": "Purchased a 150 sq.m house",
+      "boughtTwoFloor": "Purchased a two-story 300 sq.m house",
+      "boughtTwoFloor2": "Purchased a two-story 240 sq.m house"
+    },
+    "news": {
+      "title": "Company <1>News</1>",
+      "allNews": "All news  ›"
+    },
+    "office": {
+      "title": "<1>Sales</1> Office",
+      "centralOffice": "Central Office",
+      "contactManagers": "You can contact our managers with any questions",
+      "address": "Kazan, Yarkaya st. 31B",
+      "workHours": "Mon-Sat: 9:00 AM — 6:00 PM",
+      "getRoute": "Get Directions"
+    }
+  },
+  "footer": {
+    "aboutCompany": "About Company",
+    "main": "Home",
+    "ourTeam": "Our Team",
+    "smiAbout": "Media About Us",
+    "reviews": "Reviews",
+    "news": "News",
+    "contacts": "Contacts",
+    "projects": "Projects",
+    "izumrudniy": "Izumrudniy Village",
+    "iqclub": "IQ-CLUB",
+    "allProjects": "All Projects",
+    "mortgage": "Mortgage",
+    "mortgageLoans": "Mortgage Loans",
+    "forFamilies": "For Families with Children",
+    "militaryMortgage": "Military Mortgage",
+    "govSupport": "Gov. Support 2023",
+    "privacy": "Privacy Policy"
+  },
+  "contacts": {
+    "title": "Central Sales Office <1>Win Dom</1>",
+    "address": "Republic of Tatarstan, Kazan, Yarkaya st., 31B",
+    "consultation": "Consultation",
+    "managerContact": "Our manager will contact you shortly",
+    "yourName": "Your name",
+    "phonePlaceholder": "Phone",
+    "getConsultation": "Get Consultation",
+    "privacyNote": "By clicking \"Get Consultation\", you confirm your",
+    "privacyLink": "consent to personal data processing"
+  },
+  "teamPage": {
+    "title": "OUR <1>TEAM</1>",
+    "subtitle": "WIN DOM — people who share the beauty and comfort of suburban living.",
+    "description": "Our managers will help you figure out which house is right for you. They will select the construction technology and a ready-made standard project. Or develop a custom solution based on your request.",
+    "projectManager": "Project Manager",
+    "chiefArchitect": "Chief Architect",
+    "write": "Write",
+    "leaveReview": "Leave a Review",
+    "askSpecialist": "Ask a Specialist",
+    "managerContact": "Our manager will contact you shortly",
+    "nameLabel": "Name *",
+    "emailLabel": "Email *",
+    "messageLabel": "Message *",
+    "askQuestion": "Ask a Question",
+    "agreePolicy": "I agree with the personal data processing policy",
+    "companyTrust": "When you contact Win Dom construction company, you can be sure that all your wishes will be taken into account and implemented on time, under the most comfortable conditions.",
+    "deputyManager": "Deputy Project Manager",
+    "marketingHead": "Head of Marketing",
+    "salesHead": "Head of Sales",
+    "mortgageHead": "Head of Mortgage Department",
+    "supportManager": "Support Manager",
+    "leadLawyer": "Lead Legal Counsel",
+    "siteManager": "Site Manager",
+    "foreman": "Foreman"
+  },
+  "newsPage": {
+    "title": "News",
+    "readMore": "Read more",
+    "noNews": "No news found for the selected year."
+  },
+  "langSwitcher": {
+    "ru": "RU",
+    "en": "EN",
+    "tg": "TJ"
+  }
+}
